@@ -96,7 +96,7 @@ EXTRA_DIST = \
 	libcperciva/cpusupport/Build/cpusupport-X86-AESNI.c	\
 	libcperciva/cpusupport/Build/cpusupport-X86-CPUID.c	\
 	libcperciva/cpusupport/Build/cpusupport-X86-RDRAND.c	\
-	libcperciva/cpusupport/Build/cpusupport-X86-SHANI2.c	\
+	libcperciva/cpusupport/Build/cpusupport-X86-SHANI.c	\
 	libcperciva/cpusupport/Build/cpusupport-X86-SSE2.c	\
 	libcperciva/cpusupport/Build/cpusupport-X86-SSSE3.c	\
 	libcperciva/cpusupport/Build/cpusupport.sh		\
